@@ -1,1 +1,501 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local M={"\071\052\053\109\078\103\111\110";"\114\088\086\055\079\056\057\088\111\053\110\080\104\103\070\056\082\066\087\061","\071\072\053\066\078\113\053\066\043\049\115\047\043\052\122\110";"\071\054\048\047\078\054\121\061","\053\054\107\109\071\054\053\112\055\051\115\110\086\054\053\084\086\054\053\117\055\082\061\061";"\071\052\107\101\111\054\106\109";"\120\085\073\110\111\098\050\069\120\073\061\061","\075\056\055\061";"","\086\113\086\120\086\051\086\070\078\072\048\057\071\076\110\080\075\076\050\061";"\106\080\108\055\111\086\070\057\087\118\085\110\103\120\113\086\104\113\103\121\108\079\122\066\089\069\043\047\119\111\080\086\082\054\056\052\114\090\073\054\118\107\051\061","\075\076\048\105\080\105\117\112\080\084\111\052\053\051\111\100";"\043\105\110\066\111\082\061\061","\080\110\053\120\049\066\107\054\053\051\053\075";"\049\056\106\069\078\052\115\110\108\090\061\061","\049\056\106\109\111\049\115\047\086\054\107\085\078\054\080\061","\086\054\106\088\086\076\057\069\078\052\071\061";"\111\110\055\056\080\053\115\113\113\051\106\069\120\076\111\068\111\121\061\061";"\079\066\057\088\086\054\109\051\082\072\043\121\115\110\086\113\048\054\080\061","\078\054\053\101";"\086\113\089\121\043\113\048\077";"\111\072\107\109\111\082\061\061","\086\107\048\068\111\088\053\072\086\088\053\048\104\054\057\104\075\084\079\061","\078\118\051\061";"\114\117\106\049\086\113\053\107\048\107\050\088\071\117\115\079","\108\105\115\103","\081\119\105\111\072\118\115\051\070\110\043\053\110\082\048\078\072\077\112\097\109\099\100\068\053\088\105\051\111\117\073\100\056\069\085\078\080\103\090\054\089\110\082\119\102\114\115\100\102\118\097\043\075\043\102\055\089\121\061\061";"\071\103\115\112\104\113\089\105";"\048\103\107\043\120\107\110\052\075\103\053\082\080\056\107\088\053\107\051\061","\049\056\106\087\111\113\068\061","\080\110\069\070\043\088\053\119\115\118\048\122\113\053\071\103\071\121\061\061";"\075\076\115\066\071\051\086\110\086\090\061\061";"\078\054\106\047\111\076\048\066\071\052\110\101\111\121\061\061","\113\080\053\048\113\118\107\082\053\056\069\089\079\052\107\079\104\084\117\061";"\075\080\082\061","\049\056\106\105\043\121\061\061","\086\054\107\085\078\054\080\061","\111\052\122\065\078\103\055\061";"\078\118\055\061";"\048\049\047\103\115\072\107\120\048\080\115\122\079\082\061\061";"\108\054\115\098\111\052\069\109\048\088\080\103\071\053\070\069","\111\049\057\112\078\103\055\061","\104\056\115\103\053\117\069\115\043\114\079\061","\111\072\056\047\086\054\048\050";"\078\113\107\066\104\090\061\061","\120\073\061\061";"\111\103\048\056\043\073\061\061";"\086\054\106\101\086\113\056\085\111\049\055\061","\043\072\047\047\071\073\061\061","\043\072\106\101\043\072\107\066","\081\070\048\100\120\079\103\105\070\088\055\079\122\120\106\071\103\073\107\114\121\098\067\076\079\082\117\053\076\072\051\099\114\088\109\115\081\073\105\056\090\083\078\089\119\072\083\097"}local function R(R)return M[R-(406607-403518)]end for R,k in ipairs({{-4298+4299,-249467+249518},{911814-911813;-152667-(-152709)},{-913961-(-914004),932004-931953}})do while k[28670+-28669]<k[116664+-116662]do M[k[577312-577311]],M[k[-121686-(-121688)]],k[741965+-741964],k[9113-9111]=M[k[6108+-6106]],M[k[14338+-14337]],k[524756+-524755]+(-540615+540616),k[-290399+290401]-(700132-700131)end end do local R={h=-276694-(-276720);["\052"]=339557-339519;m=-495815+495860,J=-579398-(-579457),k=77373-77368,z=-567880+567929,H=-642401+642455;Y=-887427-(-887484),B=-433623-(-433675),["\053"]=256913-256892;q=34585+-34563,["\051"]=-144654-(-144658),R=-694978+694994;["\050"]=-1046985+1047025,["\055"]=-859952-(-859960);D=640379+-640323;A=-1022468+1022515;b=945914+-945912,["\049"]=-45544-(-45567);["\057"]=313795-313786,n=490341-490304;g=468482+-468427;F=322487+-322486,e=-635793+635839;C=-115154+115185;v=534695+-534692,s=-841313-(-841330),["\043"]=824461+-824437,u=404648-404612;p=-755927+755977,i=526599-526560;a=-133176+133191;x=-471824+471838,G=-87142+87170;y=568906-568858,w=97404+-97346,t=-762287-(-762350),["\056"]=813986-813933;f=-726684+726746;c=-825614-(-825674);V=-311720+311749,W=-153326+153370;["\047"]=-857065-(-857098);K=-1032590-(-1032608),M=-435061+435104,P=1042080-1042060;["\054"]=781521+-781515;Q=404125+-404114,I=-132153-(-132185),o=-696698+696723;r=-546470-(-546489),d=998845+-998835;["\048"]=808159-808146,X=281969+-281918;j=358357-358296,E=-523252-(-523293),L=235587-235580,Z=-898948-(-898948);N=-366703+366730,l=104866-104836,O=-836400+836412;U=-139766-(-139800);T=-671775+671810,S=682901+-682859}local k=type local b=string.len local D=table.insert local N=M local J=table.concat local p=math.floor local e=string.char local U=string.sub for M=702305-702304,#N,491654-491653 do local c=N[M]if k(c)=="\115\116\114\105\110\103"then local k=b(c)local r={}local P=-691941-(-691942)local X=-890117+890117 local T=-249997-(-249997)while P<=k do local M=U(c,P,P)local b=R[M]if b then X=X+b*(108853+-108789)^((-132215+132218)-T)T=T+(-29303-(-29304))if T==845500-845496 then T=432685-432685 local M=p(X/(22261+43275))local R=p((X%(-58990+124526))/(493539+-493283))local k=X%(-383057-(-383313))D(r,e(M,R,k))X=-1003404-(-1003404)end elseif M=="\061"then D(r,e(p(X/(-99147+164683))))if P>=k or U(c,P+(-254539-(-254540)),P+(412127-412126))~="\061"then D(r,e(p((X%(572229-506693))/(646412-646156))))end break end P=P+(-130455-(-130456))end N[M]=J(r)end end end return(function(M,b,D,N,J,p,e,U,k,F,Z,P,r,W,c,G,m,L,T,X)L,Z,G,k,P,X,m,U,c,r,T,W,F=function(M,R)local b=X(R)local D=function(D,N,J,p)return k(M,{D;N,J,p},R,b)end return D end,function(M,R)local b=X(R)local D=function(...)return k(M,{...},R,b)end return D end,function(M)c[M]=c[M]-(30174+-30173)if c[M]==414997+-414997 then c[M],U[M]=nil,nil end end,function(k,D,N,J)local V,S,h,v,j,g,l,z,X,C,Q,c,H,E,T,n,q,d,P,e,B,K,o,x,w,A,u,Z,f,Y,O,i,a,s while k do if k<769273+6273615 then if k<709307+3437295 then if k<-666262+2112925 then if k<442430+240307 then if k<-864755+1438271 then if k<-679744-(-905499)then if k<-302595+387293 then e=808032+13205363 P=R(936871-933751)X=-373660+6492708 c=P^X k=e-c e=R(-721770+724909)c=k k=e/c e={k}k=M[R(-735975-(-739073))]else w=R(276379-273282)k=M[w]S=R(-245472+248576)h=M[S]w=k(h)k=R(113696+-110577)M[k]=w k=15609664-(-95745)end else k=14837945-140896 g=R(-402813+405914)n=M[g]e=n end else if k<-213860-(-869794)then k=U[N[116454-116447]]k=k and 4951099-254416 or-957440+13161394 else k=L(958949+9779493,{T})B={k()}k=M[R(-786579+789712)]e={b(B)}end end else if k<2194439-1040016 then if k<-325154+1293281 then h=R(-610213-(-613332))k=M[h]h=R(-305739-(-308843))M[h]=k k=-710835+16416244 else d=d+w S=not h e=d<=B e=S and e S=d>=B S=h and S e=S or e S=4321351-577007 k=e and S e=1225572-(-258893)k=k or e end else if k<-883389+2170889 then P=U[N[-271403-(-271406)]]X=-230267-(-230268)c=P~=X k=c and-954780+14108807 or 5899191-(-1031361)else X=R(817470-814353)P=M[X]X=R(-512294+515426)c=P[X]X=U[N[2167-2166]]P={c(X)}e={b(P)}k=M[R(-492617+495726)]end end end else if k<-641470+3399504 then if k<-182237+2810898 then if k<1842396-25173 then if k<2230122-520576 then B=U[P]d=B k=B and 13365967-275687 or 4614225-(-633901)else k=U[H]h=332904-332898 w=519630+-519629 B=k(w,h)h=R(39439-36320)k=R(-522045+525164)M[k]=B w=M[h]h=-750952-(-750954)k=w>h k=k and-241284+430040 or 1325026-581592 end else c=nil U[N[-925974-(-925979)]]=e k=774019+-156729 end else if k<1743396-(-897261)then P=U[N[484770+-484768]]X=U[N[-22526-(-22529)]]c=P==X e=c k=-790343+5999582 else k=true k=k and 977395-(-816575)or 5623012-817703 end end else if k<-254648+4000043 then if k<4028789-608482 then k=8525609-(-354739)else q=R(-312938-(-316063))S=r()l=-696717+696817 U[S]=d e=M[q]q=R(-527384-(-530521))k=e[q]q=-763067+763068 E=-558223+558225 e=k(q,l)q=r()z=-426321+426576 o=625502+-625502 U[q]=e l=414933+-414933 Q=R(-1028865+1031962)k=U[H]e=k(l,z)l=r()z=207030-207029 U[l]=e V=155394+-145394 k=U[H]x=-477527-(-477528)Y=U[q]e=k(z,Y)z=r()U[z]=e e=U[H]Y=e(x,E)e=251202+-251201 k=Y==e E=R(-74771-(-77897))Y=r()e=R(734602+-731464)U[Y]=k s=M[Q]a=U[H]k=R(758162+-755035)i={a(o,V)}Q=s(b(i))s=R(-119290-(-122416))f=Q..s k=j[k]x=E..f k=k(j,e,x)x=r()E=R(-720611-(-723746))U[x]=k e=M[E]f=F(9297528-210821,{H;S,g;X;P;O;Y,x,q;z;l,n})E={e(f)}k={b(E)}E=k k=U[Y]k=k and 10793001-150466 or 8042143-632374 end else if k<4663067-693910 then k=g k=n and 15512677-815628 or 811148-442044 e=n else k=817387+5468114 end end end end else if k<808291+4439736 then if k<4000289-(-758489)then if k<5129454-817544 then if k<4349171-166289 then if k<3713106-(-438269)then k=true k=k and-126366+5133231 or-31178+709732 else w=R(558547+-555439)B=M[w]C=g w=R(-790503-(-793596))d=B[w]B=d(c,C)d=U[N[-68564+68570]]w=d()k=14145977-826145 O=B+w j=O+u O=773173+-772917 A=j%O u=A O=X[P]w=-693202+693203 B=u+w C=nil d=T[B]j=O..d X[P]=j end else U[P]=f i=U[z]o=-592177-(-592178)a=i+o Q=E[a]s=v+Q Q=1038857+-1038601 k=s%Q a=U[l]Q=K+a v=k a=-945755+946011 k=6837884-(-427585)s=Q%a K=s end else if k<-924260+5616566 then X=U[N[-341378-(-341384)]]k=2573894-58766 P=X==c e=P else c=R(185642+-182520)k=M[c]P=U[N[827955-827947]]X=-455067-(-455067)c=k(P,X)k=-87579+12291533 end end else if k<4786156-(-379017)then if k<5927949-1045276 then k=M[R(-974174-(-977285))]e={}else k=3312039-560126 end else if k<-891090+6135662 then k=e and 417997+12925572 or 341049-(-276241)else O=O+S j=O<=h l=not q j=l and j l=O>=h l=q and l j=l or j l=918113+6116218 k=j and l j=-893168+7097463 k=k or j end end end else if k<5770632-(-644147)then if k<-710860+6650086 then if k<242434+5455587 then if k<-420974+5720571 then U[P]=d k=U[P]k=k and 3327562-501442 or 7965583-(-596731)else P=R(-458743-(-461849))X=-183755+13135703 e=-106733+15618682 c=P^X k=e-c c=k e=R(-104414+107537)k=e/c e={k}k=M[R(2581+540)]end else k=738211+13589690 h=#A O=24388-24387 j=T(O,h)l=192472+-192471 O=u(A,j)h=U[K]q=O-l S=H(q)h[O]=S O=nil j=nil end else if k<-310039+6515602 then h=442096-442096 k=358283+5573301 O=#A j=O==h else k=M[R(688378-685288)]e={P}end end else if k<802721+6138605 then if k<-577692+7354831 then i=481954+-481953 s=k a=E[i]i=false Q=a==i k=Q and 16374191-95262 or 10691905-116754 f=Q else X=605079-604888 k=-642437+1871604 P=U[N[-1017629+1017632]]c=P*X P=-553115+553372 e=c%P U[N[579791-579788]]=e end else if k<180650+6845165 then k=-513010+8411144 u=U[Z]e=u else j=O l=j k=5798360-551102 A[j]=l j=nil end end end end end else if k<-765484+12130473 then if k<9066383-15520 then if k<-836263+9159181 then if k<7141299-(-329998)then if k<8243070-853945 then if k<6661667-(-651031)then x=G(x)S=G(S)q=G(q)k=770949+201567 l=G(l)Y=G(Y)E=nil z=G(z)else A=R(-610751-(-613868))k=3735547-(-10728)K=M[A]A=R(497346+-494245)v=K[A]n=v end else s=U[P]k=s and-743623+10565011 or-341828+4525492 f=s end else if k<206932+7735497 then H=R(-293694+296819)u=e e=M[H]H=R(134746+-131609)K=R(741525-738408)k=e[H]C=R(-590461+593578)H=r()U[H]=k e=M[C]C=R(239582-236452)k=e[C]g=k C=k v=M[K]k=v and 7131512-(-189260)or-71123+3817398 n=v else e={}k=M[R(-264585-(-267699))]end end else if k<8214799-(-567530)then if k<8634294-60362 then k=true k=-58909-(-737463)else k=U[N[-628516-(-628526)]]P=U[N[211074+-211063]]c[k]=P k=U[N[-559621+559633]]P={k(c)}e={b(P)}k=M[R(-779195+782298)]end else if k<8515368-(-400462)then C=nil H=G(H)u=nil P=G(P)O=G(O)K=nil n=G(n)u=R(477450+-474325)g=G(g)P=nil T=G(T)v=nil Z=G(Z)A=nil j=nil X=G(X)C=R(210516-207399)X=nil Z=M[u]u=R(-556680+559798)H=R(143582-140457)v={}T=Z[u]Z=r()U[Z]=T u=M[H]H=R(136586+-133449)T=u[H]K=r()g=r()H=M[C]n=R(817604+-814496)k=5793225-545967 C=R(-961189+964321)u=H[C]C=M[n]n=R(-212272-(-215401))H=C[n]C=975886+-975886 n=r()O=786873-786617 j=233983+-233982 U[n]=C C=-38542+38544 U[g]=C C={}U[K]=v A={}v=-419973+419973 h=O O=-1035139+1035140 S=O O=-581544+581544 q=S<O O=j-S else k=true U[N[388630-388629]]=k e={}k=M[R(22749+-19657)]end end end else if k<-490934+11054460 then if k<9150223-(-718051)then if k<9652525-77719 then if k<8575183-(-593197)then Z=-233434+233436 T=-513023+513024 P=U[N[-565502-(-565503)]]X=P(T,Z)P=-1284-(-1285)c=X==P k=c and-453202+5662441 or 316811+2323008 e=c else k=true k=k and 65701+10472423 or 9001106-890490 end else Q=-88502+88503 k=4949911-766247 s=E[Q]f=s end else if k<10045325-(-76999)then H=nil k=7071067-785566 T=nil u=nil else e=R(920709-917590)k=M[e]c=R(-572106+575210)e=M[c]c=R(415136+-412032)M[c]=k c=R(-57236+60355)M[c]=e c=U[N[-933653-(-933654)]]k=716383+8513970 P=c()end end else if k<-1028018+11685364 then if k<963565+9667242 then k=s k=14068271-553579 e=f else f=U[P]k=f and 7520133-873281 or 12625165-(-889527)e=f end else if k<-104159+10849732 then k=599872+8630481 else c=U[N[328931+-328930]]e=#c c=-741995-(-741995)k=e==c k=k and 15874824-(-337590)or 1044015+337063 end end end end else if k<82436+13705863 then if k<-747928+13871916 then if k<13448466-392576 then if k<46564+12782929 then if k<12178093-(-46612)then P=-855+856 k={}X=U[N[797822-797813]]c=k T=X X=-273402-(-273403)Z=X k=12579908-330657 X=641894+-641894 u=Z<X X=P-Z else X=X+Z H=not u P=X<=T P=H and P H=X>=T H=u and H P=H or P H=15391940-1036730 k=P and H P=690350+7885073 k=k or P end else k=true Z=r()C=m(9227298-309030,{Z})P=r()U[P]=k c=D T=r()X=R(-912418-(-915526))e=M[X]X=R(811913-808789)k=e[X]X=r()U[X]=k H=R(-712652-(-715787))k=F(13410598-337142,{})U[T]=k k=false U[Z]=k u=M[H]H=u(C)e=H k=H and 7563587-582233 or 8282339-384205 end else if k<12137592-(-942847)then c=R(784059-780923)e=R(-524873-(-527995))k=M[e]e=k(c)k=M[R(-472783-(-475888))]e={}else B=v==K d=B k=5361314-113188 end end else if k<13911802-574207 then if k<13890499-730536 then X=-894933-(-894965)P=U[N[-815725+815728]]k=646723-(-734355)c=P%X v=958922-958909 n=-288560+288562 T=U[N[786476-786472]]H=U[N[-583639+583641]]j=U[N[321280-321277]]A=j-c j=-1038849-(-1038881)K=A/j g=v-K C=n^g u=H/C Z=T(u)C=251722-251721 T=4295327611-360315 X=Z%T Z=84479-84477 T=Z^c P=X/T T=U[N[-957533+957537]]H=P%C C=-900070+4295867366 u=H*C Z=T(u)T=U[N[-1027562-(-1027566)]]u=T(P)X=Z+u H=-937620+1003156 Z=438993+-373457 T=X%Z n=145846+-145590 u=X-T Z=u/H v=735316-735060 H=-199193-(-199449)u=T%H C=T-u H=C/n X=nil c=nil n=-605493+605749 C=Z%n g=Z-C n=g/v T=nil Z=nil g={u;H,C,n}C=nil H=nil u=nil U[N[814635+-814634]]=g P=nil n=nil else A=not K g=g+v C=g<=n C=A and C A=g>=n A=K and A C=A or C A=3813773-(-350707)k=C and A C=9968317-37915 k=k or C end else if k<12825557-(-656590)then T=R(-479391-(-482488))e=R(-266549+269677)n=L(72486+-38569,{})C=R(-744831+747966)k=M[e]c=U[N[-764239+764243]]X=M[T]H=M[C]C={H(n)}u={b(C)}H=827293+-827291 Z=u[H]T=X(Z)X=R(-917509-(-920647))P=c(T,X)c={P()}e=k(b(c))c=e P=U[N[-617269-(-617274)]]k=P and-104083+4786035 or-367042+2882170 e=P else U[P]=e k=8114257-848788 end end end else if k<293541+15301638 then if k<-714790+15421842 then if k<-251636+14698819 then if k<15003084-658711 then h=-41279-(-41279)O=#A j=O==h k=j and-990161+16605861 or 6261251-329667 else k=U[N[41561-41560]]P=X C=217119-217119 n=-17927-(-18182)H=k(C,n)k=471072+11778179 c[P]=H P=nil end else n=r()g=-1031266-(-1031269)v=1019547-1019482 U[n]=e A=R(871896-868761)k=U[H]e=k(g,v)w=R(-10604+13701)g=r()U[g]=e k=412183+-412183 v=k j=W(819664+4558841,{})k=389964-389964 e=M[A]A={e(j)}K=k k={b(A)}e=1000387-1000385 A=k k=A[e]j=k e=R(-196078-(-199206))k=M[e]O=U[X]B=M[w]w=B(j)B=R(-27058-(-30196))d=O(w,B)O={d()}e=k(b(O))O=r()U[O]=e d=U[g]B=d d=920353+-920352 k=1750446-777930 w=d e=495522-495521 d=146666-146666 h=w<d d=e-w end else if k<14478994-(-784736)then k={}Z=35184371572249-(-516583)C=R(-467972-(-471080))U[N[-27460-(-27462)]]=k e=U[N[476422+-476419]]T=e e=P%Z H=974548-974293 U[N[405577-405573]]=e k=547506+12772326 u=P%H H=-206273+206275 Z=u+H U[N[-62599+62604]]=Z H=M[C]g=991902+-991901 C=R(95283+-92183)u=H[C]H=u(c)v=g C=236775-236774 g=932674-932674 K=v<g u=R(805928+-802788)X[P]=u n=H u=-447852+448088 g=C-v else k=U[N[-813506-(-813507)]]c=D[795195-795194]P=D[965421-965419]X=k k=X[P]k=k and-586193+4585011 or 14200510-(-536892)end end else if k<15500652-(-233276)then if k<16426649-804385 then q=R(-569272-(-572406))O=r()Y=R(324815-321720)e={}Q=nil C=nil h=L(11286503-522134,{O,n;g;Z})j={}U[O]=j j=r()S=r()E=R(-546228-(-549324))A=nil u=nil U[j]=h u=R(-804982+808113)h={}l={}U[S]=h v=nil Z=G(Z)T=nil h=M[q]x=U[S]z={[Y]=x,[E]=Q}q=h(l,z)P=q v=R(-477925+481016)h=F(15483943-(-44833),{S,O,K;n;g;j})n=G(n)S=G(S)X=h K=G(K)j=G(j)O=G(O)g=G(g)H=nil H=25957143047534-(-457)Z=X(u,H)T=P[Z]K=199292205088-(-346172)Z=R(-832090-(-835205))M[Z]=T u=R(506363-503250)C=R(956252+-953150)Z=M[u]H=M[C]g=X(v,K)K=R(689918-686811)n=P[g]g=R(-628383+631495)g=H[g]C={g(H,n)}H=R(-396356-(-399469))u=Z(b(C))n=R(700076-696974)Z=R(-69251+72345)A=774188+30421049943849 M[Z]=u Z=M[H]C=M[n]v=X(K,A)g=P[v]v=R(766923+-763811)P=nil k=M[R(-656657-(-659756))]v=C[v]n={v(C,g)}H=Z(b(n))Z=H()X=nil else k=1951763-(-800150)end else if k<-27446+16292478 then X=-784248-(-784313)P=U[N[-489765+489767]]c=P*X P=6774348948373-448322 e=c+P P=-24158-(-24159)c=119778+35184371969054 k=e%c U[N[-191107-(-191109)]]=k k=-28356+6958908 c=U[N[451595-451592]]e=c~=P else i=-485923-(-485925)a=E[i]k=-263546+10838697 i=U[x]Q=a==i f=Q end end end end end end end k=#J return b(e)end,764723-764723,function(M)for R=-939609+939610,#M,697364+-697363 do c[M[R]]=c[M[R]]+(325516+-325515)end if D then local k=D(true)local b=J(k)b[R(-862406+865501)],b[R(-90778+93894)],b[R(923476-920366)]=M,T,function()return-878842+4537317 end return k else return N({},{[R(896629-893513)]=T,[R(-270477+273572)]=M;[R(579309+-576199)]=function()return 3388177-(-270298)end})end end,function(M,R)local b=X(R)local D=function(D,N)return k(M,{D;N},R,b)end return D end,{},{},function()P=(811416+-811415)+P c[P]=403838+-403837 return P end,function(M)local R,k=-718116-(-718117),M[883352-883351]while k do c[k],R=c[k]-(-66865-(-66866)),R+(-372723-(-372724))if-479476+479476==c[k]then c[k],U[k]=nil,nil end k=M[R]end end,function(M,R)local b=X(R)local D=function(D)return k(M,{D},R,b)end return D end,function(M,R)local b=X(R)local D=function(D,N,J)return k(M,{D,N;J},R,b)end return D end return(Z(12292413-(-762409),{}))(b(e))end)(getfenv and getfenv()or _ENV,unpack or table[R(314378-311277)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local Players = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
+local RunService = game:GetService("RunService")
+local TweenService = game:GetService("TweenService")
+local LocalPlayer = Players.LocalPlayer
+local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
+
+if PlayerGui:FindFirstChild("hrisitosense") then
+    PlayerGui.hrisitosensee:Destroy()
+end
+
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "hrisitosense"
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ScreenGui.ResetOnSpawn = false
+ScreenGui.Parent = PlayerGui
+
+local OuterFrame = Instance.new("Frame")
+OuterFrame.Name = "OuterFrame"
+OuterFrame.Size = UDim2.new(0, 260, 0, 170)
+OuterFrame.Position = UDim2.new(0.5, -130, 0.4, 0)
+OuterFrame.BackgroundColor3 = Color3.fromRGB(16, 16, 16)
+OuterFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+OuterFrame.BorderSizePixel = 0
+OuterFrame.Parent = ScreenGui
+
+local OuterStroke = Instance.new("UIStroke")
+OuterStroke.Name = "FrameBorder"
+OuterStroke.Thickness = 6.1
+OuterStroke.Color = Color3.fromRGB(28, 28, 28)
+OuterStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+OuterStroke.LineJoinMode = Enum.LineJoinMode.Miter
+OuterStroke.Parent = OuterFrame
+
+local GradientFrame = Instance.new("Frame")
+GradientFrame.Name = "Gradient"
+GradientFrame.Size = UDim2.new(1, 0, 0, 2)
+GradientFrame.Position = UDim2.new(0, 0, 0, 0)
+GradientFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+GradientFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+GradientFrame.BorderSizePixel = 0
+GradientFrame.Parent = OuterFrame
+
+local UIGradient = Instance.new("UIGradient")
+UIGradient.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0.000, Color3.fromRGB(0, 108, 157)),
+    ColorSequenceKeypoint.new(0.515, Color3.fromRGB(150, 34, 138)),
+    ColorSequenceKeypoint.new(1.000, Color3.fromRGB(108, 155, 0))
+})
+UIGradient.Parent = GradientFrame
+
+local GradientStroke = Instance.new("UIStroke")
+GradientStroke.Color = Color3.fromRGB(39, 39, 39)
+GradientStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+GradientStroke.Parent = GradientFrame
+
+local InnerFrame = Instance.new("Frame")
+InnerFrame.Name = "InnerFrame"
+InnerFrame.Size = UDim2.new(1, -24, 1, -24)
+InnerFrame.Position = UDim2.new(0, 12, 0, 12)
+InnerFrame.BackgroundColor3 = Color3.fromRGB(21, 21, 21)
+InnerFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+InnerFrame.BorderSizePixel = 0
+InnerFrame.Parent = OuterFrame
+
+local InnerStroke = Instance.new("UIStroke")
+InnerStroke.Color = Color3.fromRGB(39, 39, 39)
+InnerStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+InnerStroke.Parent = InnerFrame
+
+local TitleLabel = Instance.new("TextLabel")
+TitleLabel.Name = "Title"
+TitleLabel.Size = UDim2.new(1, 0, 0, 28)
+TitleLabel.Position = UDim2.new(0, 0, 0.04, 0)
+TitleLabel.BackgroundTransparency = 1
+TitleLabel.Text = "Hrisitosense - Murder Mystery 2"
+TitleLabel.TextColor3 = Color3.fromRGB(196, 196, 196)
+TitleLabel.TextSize = 14
+TitleLabel.TextXAlignment = Enum.TextXAlignment.Center
+TitleLabel.TextWrapped = true
+TitleLabel.ZIndex = 99999999
+TitleLabel.FontFace = Font.new("rbxassetid://16658246179", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+TitleLabel.Parent = InnerFrame
+
+local TitleStroke = Instance.new("UIStroke")
+TitleStroke.LineJoinMode = Enum.LineJoinMode.Miter
+TitleStroke.Parent = TitleLabel
+
+local CreditLabel = Instance.new("TextLabel")
+CreditLabel.Name = "Credit"
+CreditLabel.Size = UDim2.new(1, 0, 0, 15)
+CreditLabel.Position = UDim2.new(0, 0, 0.85, 0)
+CreditLabel.BackgroundTransparency = 1
+CreditLabel.Text = "by @dj_swaston"
+CreditLabel.TextColor3 = Color3.fromRGB(196, 196, 196)
+CreditLabel.TextSize = 9
+CreditLabel.TextXAlignment = Enum.TextXAlignment.Center
+CreditLabel.TextTransparency = 0.9
+CreditLabel.TextWrapped = true
+CreditLabel.ZIndex = 99999999
+CreditLabel.FontFace = Font.new("rbxassetid://16658246179", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+CreditLabel.Parent = InnerFrame
+
+local StartButton = Instance.new("TextButton")
+StartButton.Name = "StartButton"
+StartButton.Size = UDim2.new(0.35, 0, 0, 28)
+StartButton.Position = UDim2.new(0.325, 0, 0.30, 0)
+StartButton.BackgroundColor3 = Color3.fromRGB(23, 23, 23)
+StartButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+StartButton.BorderSizePixel = 0
+StartButton.Text = "Start"
+StartButton.TextColor3 = Color3.fromRGB(201, 201, 201)
+StartButton.TextSize = 14
+StartButton.RichText = true
+StartButton.AutoButtonColor = false
+StartButton.FontFace = Font.new("rbxassetid://16658246179", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+StartButton.Parent = InnerFrame
+
+local StartStroke1 = Instance.new("UIStroke")
+StartStroke1.LineJoinMode = Enum.LineJoinMode.Miter
+StartStroke1.Parent = StartButton
+
+local StartStroke2 = Instance.new("UIStroke")
+StartStroke2.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+StartStroke2.Parent = StartButton
+
+local speedValue = 50
+
+local SpeedLabel = Instance.new("TextLabel")
+SpeedLabel.Size = UDim2.new(0.45, 0, 0, 20)
+SpeedLabel.Position = UDim2.new(0.06, 0, 0.58, 0)
+SpeedLabel.BackgroundTransparency = 1
+SpeedLabel.Text = "Speed: 50"
+SpeedLabel.TextColor3 = Color3.fromRGB(196, 196, 196)
+SpeedLabel.TextSize = 12
+SpeedLabel.TextXAlignment = Enum.TextXAlignment.Left
+SpeedLabel.FontFace = Font.new("rbxassetid://16658246179", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+SpeedLabel.Parent = InnerFrame
+
+local SliderTrack = Instance.new("Frame")
+SliderTrack.Size = UDim2.new(0.50, 0, 0, 6)
+SliderTrack.Position = UDim2.new(0.06, 0, 0.72, 0)
+SliderTrack.BackgroundColor3 = Color3.fromRGB(60, 60, 70)
+SliderTrack.BorderSizePixel = 0
+SliderTrack.Parent = InnerFrame
+
+local SliderFill = Instance.new("Frame")
+SliderFill.Size = UDim2.new(0.5, 0, 1, 0)
+SliderFill.BackgroundColor3 = Color3.fromRGB(150, 34, 138)
+SliderFill.BorderSizePixel = 0
+SliderFill.Parent = SliderTrack
+
+local SliderButton = Instance.new("TextButton")
+SliderButton.Size = UDim2.new(0, 16, 0, 16)
+SliderButton.Position = UDim2.new(0.5, -8, 0.5, -8)
+SliderButton.BackgroundColor3 = Color3.fromRGB(201, 201, 201)
+SliderButton.Text = ""
+SliderButton.BorderSizePixel = 0
+SliderButton.Parent = SliderTrack
+
+local SliderButtonShadow = Instance.new("UIStroke")
+SliderButtonShadow.Color = Color3.fromRGB(0, 0, 0)
+SliderButtonShadow.Thickness = 2
+SliderButtonShadow.Transparency = 0.5
+SliderButtonShadow.Parent = SliderButton
+
+local sliderDragging = false
+
+local function UpdateSpeed(input)
+    local trackSize = SliderTrack.AbsoluteSize.X
+    if trackSize == 0 then return end
+    local mouseX = input.Position.X - SliderTrack.AbsolutePosition.X
+    local percent = math.clamp(mouseX / trackSize, 0, 1)
+    
+    speedValue = math.floor(percent * 100) + 1
+    SpeedLabel.Text = "Speed: " .. speedValue
+    SliderFill.Size = UDim2.new(percent, 0, 1, 0)
+    SliderButton.Position = UDim2.new(percent, -8, 0.5, -8)
+end
+
+SliderButton.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        sliderDragging = true
+        UpdateSpeed(input)
+    end
+end)
+
+UserInputService.InputChanged:Connect(function(input)
+    if sliderDragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+        UpdateSpeed(input)
+    end
+end)
+
+UserInputService.InputEnded:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        sliderDragging = false
+    end
+end)
+
+SliderTrack.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        UpdateSpeed(input)
+    end
+end)
+
+pcall(function()
+    local VirtualUser = game:GetService("VirtualUser")
+    LocalPlayer.Idled:Connect(function()
+        VirtualUser:CaptureController()
+        VirtualUser:ClickButton2(Vector2.new())
+    end)
+end)
+
+local isFarming = false
+local farmingConnection = nil
+local coinsCollected = 0
+local noclipConnection = nil
+local hasCollectedAtLeastOne = false
+local noCoinTimer = 0
+local maxnct = 10
+
+local Char = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+local HRP = Char:WaitForChild("HumanoidRootPart")
+local Humanoid = Char:WaitForChild("Humanoid")
+
+local function EnableNoclip()
+    if noclipConnection then return end
+    noclipConnection = RunService.Heartbeat:Connect(function()
+        if not isFarming then return end
+        if not Char or not HRP then return end
+        for _, part in ipairs(Char:GetDescendants()) do
+            if part:IsA("BasePart") and part.CanCollide then
+                part.CanCollide = false
+            end
+        end
+    end)
+end
+
+local function DisableNoclip()
+    if noclipConnection then
+        noclipConnection:Disconnect()
+        noclipConnection = nil
+    end
+    if Char then
+        for _, part in ipairs(Char:GetDescendants()) do
+            if part:IsA("BasePart") then
+                part.CanCollide = true
+            end
+        end
+    end
+end
+
+local function AutoRespawn()
+    if not Humanoid then return end
+    Humanoid.Health = 0
+    coinsCollected = 0
+    hasCollectedAtLeastOne = false
+end
+
+local function GetMap()
+    for _, obj in ipairs(workspace:GetChildren()) do
+        if obj:GetAttribute("MapID") and obj:FindFirstChild("CoinContainer") then
+            return obj
+        end
+    end
+    return nil
+end
+
+local function getNearest()
+    local map = GetMap()
+    if not map then return nil end
+    local coinContainer = map:FindFirstChild("CoinContainer")
+    if not coinContainer then return nil end
+
+    local closest, dist = nil, math.huge
+    for _, coin in ipairs(coinContainer:GetChildren()) do
+        local visual = coin:FindFirstChild("CoinVisual")
+        if visual and not visual:GetAttribute("Collected") then
+            local d = (HRP.Position - coin.Position).Magnitude
+            if d < dist then
+                closest = coin
+                dist = d
+            end
+        end
+    end
+    return closest
+end
+
+local function tp(hp)
+    if not HRP or not Humanoid then return end
+    Humanoid:ChangeState(Enum.HumanoidStateType.Running)
+    local distance = (HRP.Position - hp.Position).Magnitude
+    local speed = speedValue / 2
+    if speed < 1 then speed = 1 end
+    local tween = TweenService:Create(HRP, TweenInfo.new(distance / speed, Enum.EasingStyle.Linear), {
+        CFrame = hp.CFrame
+    })
+    tween:Play()
+    tween.Completed:Wait()
+end
+
+local function startFarming()
+    if farmingConnection then return end
+    
+    coinsCollected = 0
+    noCoinTimer = 0
+    hasCollectedAtLeastOne = false
+    EnableNoclip()
+    
+    farmingConnection = task.spawn(function()
+        while isFarming do
+            if not LocalPlayer:GetAttribute("Alive") then
+                repeat
+                    task.wait(1)
+                until LocalPlayer:GetAttribute("Alive") or not isFarming
+                coinsCollected = 0
+                hasCollectedAtLeastOne = false
+                Char = LocalPlayer.Character
+                if Char then
+                    HRP = Char:FindFirstChild("HumanoidRootPart")
+                    Humanoid = Char:FindFirstChild("Humanoid")
+                end
+                if not HRP or not Humanoid then
+                    task.wait(1)
+                    continue
+                end
+                noCoinTimer = 0
+            end
+
+            if not HRP or not Humanoid then
+                task.wait(0.5)
+                continue
+            end
+
+            local target = getNearest()
+            if target then
+                hasCollectedAtLeastOne = true
+                noCoinTimer = 0
+                
+                tp(target)
+                local visual = target:FindFirstChild("CoinVisual")
+                while visual and not visual:GetAttribute("Collected") and visual.Parent and isFarming do
+                    if not LocalPlayer:GetAttribute("Alive") then break end
+                    local newTarget = getNearest()
+                    if newTarget and newTarget ~= target then break end
+                    task.wait()
+                end
+                coinsCollected = coinsCollected + 1
+                
+                if coinsCollected >= math.random(40, 50) then
+                    AutoRespawn()
+                    repeat
+                        task.wait(1)
+                    until LocalPlayer:GetAttribute("Alive") or not isFarming
+                    coinsCollected = 0
+                    hasCollectedAtLeastOne = false
+                    Char = LocalPlayer.Character
+                    if Char then
+                        HRP = Char:FindFirstChild("HumanoidRootPart")
+                        Humanoid = Char:FindFirstChild("Humanoid")
+                    end
+                    noCoinTimer = 0
+                end
+            else
+                if hasCollectedAtLeastOne then
+                    noCoinTimer = noCoinTimer + 0.5
+                    if noCoinTimer >= maxnct then
+                        AutoRespawn()
+                        repeat
+                            task.wait(1)
+                        until LocalPlayer:GetAttribute("Alive") or not isFarming
+                        coinsCollected = 0
+                        hasCollectedAtLeastOne = false
+                        Char = LocalPlayer.Character
+                        if Char then
+                            HRP = Char:FindFirstChild("HumanoidRootPart")
+                            Humanoid = Char:FindFirstChild("Humanoid")
+                        end
+                        noCoinTimer = 0
+                    end
+                end
+                task.wait(0.5)
+            end
+        end
+    end)
+end
+
+local function stopFarming()
+    isFarming = false
+    noCoinTimer = 0
+    hasCollectedAtLeastOne = false
+    if farmingConnection then
+        task.cancel(farmingConnection)
+        farmingConnection = nil
+    end
+    DisableNoclip()
+    coinsCollected = 0
+end
+
+local function toggleFarming()
+    isFarming = not isFarming
+
+    if isFarming then
+        StartButton.Text = "Stop"
+        StartButton.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+        startFarming()
+    else
+        StartButton.Text = "Start"
+        StartButton.BackgroundColor3 = Color3.fromRGB(23, 23, 23)
+        stopFarming()
+    end
+end
+
+local function TweenButtonColor(button, targetColor, duration)
+    local tween = TweenService:Create(button, TweenInfo.new(duration or 0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+        BackgroundColor3 = targetColor
+    })
+    tween:Play()
+    return tween
+end
+
+local function SetupButton(button, defaultColor, hoverColor, clickColor)
+    button.MouseEnter:Connect(function()
+        TweenButtonColor(button, hoverColor, 0.1)
+    end)
+
+    button.MouseLeave:Connect(function()
+        TweenButtonColor(button, defaultColor, 0.1)
+    end)
+
+    button.MouseButton1Down:Connect(function()
+        TweenButtonColor(button, clickColor, 0.05)
+    end)
+
+    button.MouseButton1Up:Connect(function()
+        TweenButtonColor(button, hoverColor, 0.05)
+    end)
+end
+
+SetupButton(StartButton, Color3.fromRGB(23, 23, 23), Color3.fromRGB(45, 45, 45), Color3.fromRGB(60, 60, 60))
+
+StartButton.MouseButton1Click:Connect(toggleFarming)
+
+local dragging = false
+local dragStartMousePos = nil
+local dragStartFramePos = nil
+
+local function StartDrag(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        dragging = true
+        dragStartMousePos = input.Position
+        dragStartFramePos = OuterFrame.Position
+    end
+end
+
+local function UpdateDrag(input)
+    if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+        local delta = input.Position - dragStartMousePos
+        OuterFrame.Position = UDim2.new(
+            dragStartFramePos.X.Scale,
+            dragStartFramePos.X.Offset + delta.X,
+            dragStartFramePos.Y.Scale,
+            dragStartFramePos.Y.Offset + delta.Y
+        )
+    end
+end
+
+local function StopDrag(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        dragging = false
+    end
+end
+
+OuterFrame.InputBegan:Connect(StartDrag)
+OuterFrame.InputChanged:Connect(UpdateDrag)
+OuterFrame.InputEnded:Connect(StopDrag)
+TitleLabel.InputBegan:Connect(StartDrag)
+TitleLabel.InputChanged:Connect(UpdateDrag)
+TitleLabel.InputEnded:Connect(StopDrag)
+
+LocalPlayer.CharacterAdded:Connect(function(char)
+    Char = char
+    HRP = char:WaitForChild("HumanoidRootPart")
+    Humanoid = char:WaitForChild("Humanoid")
+    noCoinTimer = 0
+    hasCollectedAtLeastOne = false
+    coinsCollected = 0
+    
+    if isFarming then
+        if farmingConnection then
+            task.cancel(farmingConnection)
+            farmingConnection = nil
+        end
+        task.wait(1)
+        if isFarming then
+            startFarming()
+        end
+    end
+end)
+
+return ScreenGui
